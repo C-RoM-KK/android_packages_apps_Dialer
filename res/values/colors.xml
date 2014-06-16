@@ -144,4 +144,10 @@
     <color name="call_stats_outgoing">#99cc00</color>
     <color name="call_stats_missed">#eb1313</color>
     <color name="call_stats_bar_background">#88888888</color>
+
+    <color name="call_log_divider">#55ffffff</color>
+
+    <color name="call_detail_photo_bg">#7F000000</color>
+
+    <color name="dialpad_fragment_spacer">#00000000</color>
 </resources>
